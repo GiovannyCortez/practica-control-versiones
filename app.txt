@@ -1,9 +1,12 @@
 Esta es la versión inicial de mi sistema con arquitectura empresarial 
 
 
-<<<<<<< HEAD
+
 
 El sistema contara con nueva autenticación 
-=======
+
 Aquí estamos escribiendo dentro de lo que será nuestra primer branch
->>>>>>> c10e394e7863b6768630cbea706d9f38d14edf84
+
+
+y aparte le sistema Sistema tendra un login avanzado 
+
